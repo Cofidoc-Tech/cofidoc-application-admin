@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/admin-infi/static/css/main.e469daf3.chunk.css",
+    "main.js": "/admin-infi/static/js/main.f7d9fb21.chunk.js",
+    "main.js.map": "/admin-infi/static/js/main.f7d9fb21.chunk.js.map",
+    "runtime-main.js": "/admin-infi/static/js/runtime-main.957b2f66.js",
+    "runtime-main.js.map": "/admin-infi/static/js/runtime-main.957b2f66.js.map",
+    "static/js/2.0963fa4d.chunk.js": "/admin-infi/static/js/2.0963fa4d.chunk.js",
+    "static/js/2.0963fa4d.chunk.js.map": "/admin-infi/static/js/2.0963fa4d.chunk.js.map",
+    "static/js/3.658c0751.chunk.js": "/admin-infi/static/js/3.658c0751.chunk.js",
+    "static/js/3.658c0751.chunk.js.map": "/admin-infi/static/js/3.658c0751.chunk.js.map",
+    "index.html": "/admin-infi/index.html",
+    "static/css/main.e469daf3.chunk.css.map": "/admin-infi/static/css/main.e469daf3.chunk.css.map",
+    "static/js/2.0963fa4d.chunk.js.LICENSE.txt": "/admin-infi/static/js/2.0963fa4d.chunk.js.LICENSE.txt",
+    "static/media/cofidoc-black.ccd491af.png": "/admin-infi/static/media/cofidoc-black.ccd491af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.957b2f66.js",
+    "static/js/2.0963fa4d.chunk.js",
+    "static/css/main.e469daf3.chunk.css",
+    "static/js/main.f7d9fb21.chunk.js"
+  ]
+}
