@@ -2,7 +2,7 @@
   "name": "admin-infi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://superchauzette.github.io/admin-infi",
+  "homepage": "https://cofidoc.github.io/admin-infi",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
